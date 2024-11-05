@@ -1,0 +1,17 @@
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Application/bin/Debug/net8.0/Amanoi.Application.deps.json
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Application/bin/Debug/net8.0/Amanoi.Application.runtimeconfig.json
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Application/bin/Debug/net8.0/Amanoi.Application.dll
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Application/bin/Debug/net8.0/Amanoi.Application.pdb
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Application/bin/Debug/net8.0/Amanoi.Domain.dll
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Application/bin/Debug/net8.0/Amanoi.Domain.pdb
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Application/obj/Debug/net8.0/Amanoi.Application.csproj.AssemblyReference.cache
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Application/obj/Debug/net8.0/Amanoi.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Application/obj/Debug/net8.0/Amanoi.Application.AssemblyInfoInputs.cache
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Application/obj/Debug/net8.0/Amanoi.Application.AssemblyInfo.cs
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Application/obj/Debug/net8.0/Amanoi.Application.csproj.CoreCompileInputs.cache
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Application/obj/Debug/net8.0/Amanoi.Application.csproj.CopyComplete
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Application/obj/Debug/net8.0/Amanoi.Application.dll
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Application/obj/Debug/net8.0/refint/Amanoi.Application.dll
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Application/obj/Debug/net8.0/Amanoi.Application.pdb
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Application/obj/Debug/net8.0/Amanoi.Application.genruntimeconfig.cache
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Application/obj/Debug/net8.0/ref/Amanoi.Application.dll

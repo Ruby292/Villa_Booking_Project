@@ -1,0 +1,63 @@
+﻿@model Villa
+
+<div class="w-100 card border-0 p-4">
+    <div class="card-header bg-danger bg-gradient ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">Delete Villa</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body border p-4">
+        <!-- Form gửi đến DeleteConfirmed để thực hiện thao tác xóa -->
+        <form asp-action="DeleteConfirmed" method="post" class="row">
+            <input asp-for="Id" type="hidden" /> <!-- Truyền Id của Villa vào DeleteConfirmed -->
+            <div class="p-3">
+                <div class="py-1 col-12">
+                    <label class="form-label">Tên Villa:</label>
+                    <p class="form-control border-0">@Model.Name</p>
+                </div>
+                <div class="py-1 col-12">
+                    <label class="form-label">Mô Tả:</label>
+                    <p class="form-control border-0">@Model.Description</p>
+                </div>
+                <div class="py-1 col-12">
+                    <label class="form-label">Giá (VND):</label>
+                    <p class="form-control border-0">@Model.Price</p>
+                </div>
+                <div class="py-1 col-12">
+                    <label class="form-label">Diện Tích (Sqft):</label>
+                    <p class="form-control border-0">@Model.Sqft</p>
+                </div>
+                <div class="py-1 col-12">
+                    <label class="form-label">Số Người Ở:</label>
+                    <p class="form-control border-0">@Model.Occupancy</p>
+                </div>
+                <div class="py-1 col-12">
+                    <label class="form-label">Đường Dẫn Hình Ảnh:</label>
+                    <p class="form-control border-0">@Model.ImageUrl</p>
+                </div>
+                <div class="row pt-2">
+                    <!-- Nút Xóa thực hiện thao tác gửi form đến DeleteConfirmed -->
+                    <div class="col-6 col-md-3">
+                        <button type="submit" class="btn btn-danger w-100">
+                            <i class="bi bi-trash-fill"></i> Xóa
+                        </button>
+                    </div>
+                    <!-- Nút Hủy chuyển hướng về Index mà không thực hiện xóa -->
+                    <div class="col-6 col-md-3">
+                        <a asp-controller="Villa" asp-action="Index" class="btn btn-secondary w-100">
+                            <i class="bi bi-x-circle"></i> Hủy
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

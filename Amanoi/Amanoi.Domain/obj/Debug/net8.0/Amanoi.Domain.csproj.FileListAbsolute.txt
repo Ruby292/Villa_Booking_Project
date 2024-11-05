@@ -1,0 +1,14 @@
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Domain/bin/Debug/net8.0/Amanoi.Domain.deps.json
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Domain/bin/Debug/net8.0/Amanoi.Domain.runtimeconfig.json
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Domain/bin/Debug/net8.0/Amanoi.Domain.dll
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Domain/bin/Debug/net8.0/Amanoi.Domain.pdb
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Domain/obj/Debug/net8.0/Amanoi.Domain.csproj.AssemblyReference.cache
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Domain/obj/Debug/net8.0/Amanoi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Domain/obj/Debug/net8.0/Amanoi.Domain.AssemblyInfoInputs.cache
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Domain/obj/Debug/net8.0/Amanoi.Domain.AssemblyInfo.cs
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Domain/obj/Debug/net8.0/Amanoi.Domain.csproj.CoreCompileInputs.cache
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Domain/obj/Debug/net8.0/Amanoi.Domain.dll
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Domain/obj/Debug/net8.0/refint/Amanoi.Domain.dll
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Domain/obj/Debug/net8.0/Amanoi.Domain.pdb
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Domain/obj/Debug/net8.0/Amanoi.Domain.genruntimeconfig.cache
+/home/ruby/Huflit_Materials/Semester_2.1/Web_Development/Amanoi/Amanoi.Domain/obj/Debug/net8.0/ref/Amanoi.Domain.dll
